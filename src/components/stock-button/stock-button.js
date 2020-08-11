@@ -83,8 +83,8 @@ class StockButton extends Component {
                 id={i[0]}
                 name={i[1].name}
                 style={{
-                  backgroundColor: "gray",
-                  color: "white",
+                  backgroundColor: "white",
+                  color: "black",
                   height: "30px",
                   textAlign: "center",
                   paddingTop: "2px"
